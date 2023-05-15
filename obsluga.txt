@@ -1,0 +1,6 @@
+1. włączenie xamppa
+2. otwarcie projektu 
+3. zarejestrowanie uzytkownika
+4. odpalenie drugiego okna w trycie incognito
+5. zarejestrowanie uzytkownika
+6. otwarcie chatu z wybranym uzytkownikiem
